@@ -1,0 +1,16 @@
+C:\Users\gabri\OneDrive\Documentos\SIF\3º PERÍODO\ALGORITMO E PROGRAMAÇÃO AVANÇADA\Lista_3_Humberto\Lista_Revisão_Humb\Exercício_1\bin\Debug\Exercício_1.exe.config
+C:\Users\gabri\OneDrive\Documentos\SIF\3º PERÍODO\ALGORITMO E PROGRAMAÇÃO AVANÇADA\Lista_3_Humberto\Lista_Revisão_Humb\Exercício_1\bin\Debug\Exercício_1.exe
+C:\Users\gabri\OneDrive\Documentos\SIF\3º PERÍODO\ALGORITMO E PROGRAMAÇÃO AVANÇADA\Lista_3_Humberto\Lista_Revisão_Humb\Exercício_1\bin\Debug\Exercício_1.pdb
+C:\Users\gabri\OneDrive\Documentos\SIF\3º PERÍODO\ALGORITMO E PROGRAMAÇÃO AVANÇADA\Lista_3_Humberto\Lista_Revisão_Humb\Exercício_1\obj\Debug\Exercício_1.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Documentos\SIF\3º PERÍODO\ALGORITMO E PROGRAMAÇÃO AVANÇADA\Lista_3_Humberto\Lista_Revisão_Humb\Exercício_1\obj\Debug\Exercício_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabri\OneDrive\Documentos\SIF\3º PERÍODO\ALGORITMO E PROGRAMAÇÃO AVANÇADA\Lista_3_Humberto\Lista_Revisão_Humb\Exercício_1\obj\Debug\Exercício_1.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documentos\SIF\3º PERÍODO\ALGORITMO E PROGRAMAÇÃO AVANÇADA\Lista_3_Humberto\Lista_Revisão_Humb\Exercício_1\obj\Debug\Exercício_1.exe
+C:\Users\gabri\OneDrive\Documentos\SIF\3º PERÍODO\ALGORITMO E PROGRAMAÇÃO AVANÇADA\Lista_3_Humberto\Lista_Revisão_Humb\Exercício_1\obj\Debug\Exercício_1.pdb
+C:\Users\gabri\OneDrive\Documentos\SIF\3º PERÍODO\ALGORITMO E PROGRAMAÇÃO AVANÇADA\Lista_Revisão_Humb\Exercício_1\bin\Debug\Exercício_1.exe.config
+C:\Users\gabri\OneDrive\Documentos\SIF\3º PERÍODO\ALGORITMO E PROGRAMAÇÃO AVANÇADA\Lista_Revisão_Humb\Exercício_1\bin\Debug\Exercício_1.exe
+C:\Users\gabri\OneDrive\Documentos\SIF\3º PERÍODO\ALGORITMO E PROGRAMAÇÃO AVANÇADA\Lista_Revisão_Humb\Exercício_1\bin\Debug\Exercício_1.pdb
+C:\Users\gabri\OneDrive\Documentos\SIF\3º PERÍODO\ALGORITMO E PROGRAMAÇÃO AVANÇADA\Lista_Revisão_Humb\Exercício_1\obj\Debug\Exercício_1.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Documentos\SIF\3º PERÍODO\ALGORITMO E PROGRAMAÇÃO AVANÇADA\Lista_Revisão_Humb\Exercício_1\obj\Debug\Exercício_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabri\OneDrive\Documentos\SIF\3º PERÍODO\ALGORITMO E PROGRAMAÇÃO AVANÇADA\Lista_Revisão_Humb\Exercício_1\obj\Debug\Exercício_1.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documentos\SIF\3º PERÍODO\ALGORITMO E PROGRAMAÇÃO AVANÇADA\Lista_Revisão_Humb\Exercício_1\obj\Debug\Exercício_1.exe
+C:\Users\gabri\OneDrive\Documentos\SIF\3º PERÍODO\ALGORITMO E PROGRAMAÇÃO AVANÇADA\Lista_Revisão_Humb\Exercício_1\obj\Debug\Exercício_1.pdb
